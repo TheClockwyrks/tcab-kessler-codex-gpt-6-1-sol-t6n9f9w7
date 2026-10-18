@@ -1,0 +1,11 @@
+[[media]]
+file = "orbital-sweep.json.gz"
+name = "Three balls, one orbit"
+
+[[media]]
+file = "field.png"
+name = "Salvage in the debris field"
+
+[[media]]
+file = "title.png"
+name = "Clear the sky"
